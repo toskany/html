@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+.flex {
+  display: flex;
+}
+
+.one, .two {
+  width:  50%;
+  height: 100px;
+}
+
+.one {
+  background: #C4C875;
+}
+
+.two {
+  background: #F21409;
+}
